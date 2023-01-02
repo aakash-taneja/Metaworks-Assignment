@@ -1,0 +1,6 @@
+.main__chatbody {
+  flex-grow: 1;
+  background-color: #0f0f0f;
+  display: flex;
+  height:100%;
+}
